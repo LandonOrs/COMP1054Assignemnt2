@@ -1,0 +1,52 @@
+body {
+  background-color: #211714;
+  color: #f7e8de;
+}
+
+header h1 {
+  color: #f0643a;
+}
+
+section h2 {
+  color: #f28c45;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.7;
+}
+
+h1,
+h2 {
+  font-family: "Oswald", sans-serif;
+}
+
+header h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.chorus {
+  font-weight: 700;
+}
+
+header,
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+.chorus {
+  border-left: 4px solid #f0643a;
+  padding: 1rem;
+  background-color: #30211c;
+}
